@@ -1,0 +1,15 @@
+ad_users:
+  suzuki.taro200:
+    State: present
+    Enabled: true
+    SamAccountName: suzuki.taro200
+    EmployeeID: 8001
+    DisplayName: 鈴木 太郎200
+
+  zama.taro201:
+    State: present
+    Enabled: true
+    SamAccountName: zama.taro201
+    EmployeeID: 8002
+    DisplayName: 座間 太郎201
+
