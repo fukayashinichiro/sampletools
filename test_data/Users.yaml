@@ -10,6 +10,6 @@ ad_users:
     State: present
     Enabled: true
     SamAccountName: zama.taro201
-    EmployeeID: 8002
+    EmployeeID: 8003
     DisplayName: 座間 太郎201
 
