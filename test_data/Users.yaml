@@ -5,11 +5,39 @@ ad_users:
     SamAccountName: suzuki.taro200
     EmployeeID: 8001
     DisplayName: 鈴木 太郎200
-
   zama.taro201:
     State: present
     Enabled: true
     SamAccountName: zama.taro201
     EmployeeID: 8002
     DisplayName: 座間 太郎201
-
+  yamada.taro100:
+    State: present
+    Enabled: true
+    SamAccountName: yamada.taro100
+    EmployeeID: 9001
+    DisplayName: 山田 太郎100
+    LastName: 山田
+    FirstName: 太郎100
+    LastNameKana: ヤマダ
+    FirstNameKana: タロウ
+  yamada.taro101:
+    State: present
+    Enabled: true
+    SamAccountName: yamada.taro101
+    EmployeeID: 9002
+    DisplayName: 山田 太郎101
+    LastName: 山田
+    FirstName: 太郎101
+    LastNameKana: ヤマダ
+    FirstNameKana: タロウ
+  yamada.taro102:
+    State: present
+    Enabled: true
+    SamAccountName: yamada.taro102
+    EmployeeID: 9003
+    DisplayName: 山田 太郎102
+    LastName: 山田
+    FirstName: 太郎102
+    LastNameKana: ヤマダ
+    FirstNameKana: タロウ
